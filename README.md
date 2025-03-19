@@ -18,44 +18,51 @@ I love building **scalable, secure, and high-performance web applications**. I s
 
 📌 **More Projects:** Check out my repositories for my latest work!  
 
----
+## 🛠 Tech Stack
 
-## 🛠 **Tech Stack**
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+      <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white">
+      <img src="https://img.shields.io/badge/-FramerMotion-EA4C89?style=flat&logo=framer&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
+      <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white">
+      <img src="https://img.shields.io/badge/-REST%20API-005571?style=flat&logo=rest&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database & Security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+      <img src="https://img.shields.io/badge/-JWT-black?style=flat&logo=JSON%20web%20tokens">
+      <img src="https://img.shields.io/badge/-End%20to%20End%20Encryption-FF5733?style=flat">
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github">
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white">
+      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+      <img src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white">
+      <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white">
+      <img src="https://img.shields.io/badge/-CloudFront-FF9900?style=flat&logo=amazon-aws&logoColor=white">
+    </td>
+  </tr>
+</table>
 
-**💻 Frontend:**  
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
-![Framer Motion](https://img.shields.io/badge/-FramerMotion-EA4C89?style=flat-square&logo=framer&logoColor=white)  
-
-**⚙️ Backend:**  
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)  
-![REST API](https://img.shields.io/badge/-REST%20API-005571?style=flat-square&logo=rest&logoColor=white)  
-
-**🛢 Database & Security:**  
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSON%20web%20tokens)  
-![E2EE](https://img.shields.io/badge/-End%20to%20End%20Encryption-FF5733?style=flat-square)  
-
-**🛠 DevOps & Tools:**  
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)  
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)  
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
-![AWS Cloudfront](https://img.shields.io/badge/-AWS%20Cloudfront-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
-
----
 
 ## 📫 **Let's Connect**
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5733?style=flat-square)](https://hetchawda.in)  
