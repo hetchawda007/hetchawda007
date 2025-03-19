@@ -5,19 +5,6 @@ I love building **scalable, secure, and high-performance web applications**. I s
 
 ---
 
-## 🚀 **What I Do?**
-- 🛠 **Full-Stack Web Development** – React, Next.js, Tailwind CSS, TypeScript, JavaScript, Node.js, Express.js
-- ⚡ **Real-Time Applications** – WebSockets, Socket.io, Event-Driven Architecture  
-- 🔒 **Secure & Scalable Systems** – JWT, OAuth, E2EE, MongoDB, API Security  
-
----
-
-## 🔥 **Projects That I’m Proud Of**
-🔹 **Real-Time E2EE Chat App** – A secure chat platform with **end-to-end encryption & real-time messaging**.  
-🔹 **Crowdfunding Platform** – A creator-focused platform with **secure payments & instant tracking**.  
-
-📌 **More Projects:** Check out my repositories for my latest work!  
-
 ## 🛠 Tech Stack
 
 <table>
@@ -62,6 +49,13 @@ I love building **scalable, secure, and high-performance web applications**. I s
     </td>
   </tr>
 </table>
+
+
+## 🔥 **Projects That I’m Proud Of**
+🔹 **Real-Time E2EE Chat App** – A secure chat platform with **end-to-end encryption & real-time messaging**.  
+🔹 **Crowdfunding Platform** – A creator-focused platform with **secure payments & instant tracking**.  
+
+📌 **More Projects:** Check out my repositories for my latest work!  
 
 
 ## 📫 **Let's Connect**
